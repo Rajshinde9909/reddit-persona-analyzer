@@ -1,0 +1,114 @@
+# Reddit User Persona: TryingTris
+Generated on: 2025-07-15 00:24:21
+
+## Summary
+**AI-Generated Persona Summary:**
+User has written 132 posts/comments with an average of 102.4 words per post. Main interests include: food, technology, movies, gaming, science. Frequently discusses: you, that, this, what, which. Personality traits suggest they are: creative, optimistic, social.
+
+**Detailed Analysis:**
+User has written 132 posts/comments with an average of 102.4 words per post. Overall sentiment is positive. Main interests include: food, technology, movies, gaming, science. Frequently discusses: you, that, this, what, which. Most active in subreddits: MT09, houston, GrandPowerStribog, Homebrewing, movies. Personality traits suggest they are: creative, optimistic, social.
+
+## Basic Statistics
+- Total Posts: 32
+- Total Comments: 100
+- Data Source: api
+
+## Content Analysis
+- Total Content Pieces: 132
+- Total Words: 13,511
+- Average Words per Post: 102.4
+- Vocabulary Size: 2,471
+
+### Most Used Words
+- pretty: 37 times
+- bit: 35 times
+- get: 33 times
+- one: 32 times
+- like: 31 times
+- would: 31 times
+- time: 30 times
+- https: 30 times
+- good: 25 times
+- could: 25 times
+
+## Sentiment Analysis
+- Overall Sentiment: Positive
+- Positivity Score: 0.12
+- Negativity Score: 0.06
+- Neutrality Score: 0.82
+- Compound Score: 0.30
+
+### Sentiment Distribution
+- Positive Posts: 77
+- Negative Posts: 30
+- Neutral Posts: 25
+
+## Detected Interests
+food, technology, movies, gaming, science, music, finance, fitness
+
+## Frequently Discussed Topics
+you, that, this, what, which, they, anybody, them, something, time, amsterdam, prague, anything, patagonia, ibu
+
+## Personality Indicators
+- Creative: 40.0%
+- Optimistic: 17.5%
+- Social: 15.6%
+- Helpful: 13.1%
+- Humorous: 8.8%
+- Analytical: 3.8%
+- Technical: 1.2%
+
+## Subreddit Activity
+- Active in 30 different subreddits
+
+### Top Subreddits by Activity
+- r/MT09: 31 posts/comments
+- r/houston: 16 posts/comments
+- r/GrandPowerStribog: 13 posts/comments
+- r/Homebrewing: 11 posts/comments
+- r/movies: 8 posts/comments
+- r/gundeals: 8 posts/comments
+- r/AskReddit: 7 posts/comments
+- r/onebag: 4 posts/comments
+- r/gaming: 4 posts/comments
+- r/tequila: 4 posts/comments
+
+## Activity Patterns
+- Most Active Hour: 18:00
+- Most Active Day: Tuesday
+
+## Engagement Metrics
+- Average Post Score: 22.6
+- Highest Post Score: 132
+- Total Post Karma: 723
+- Average Comment Score: 3.2
+- Highest Comment Score: 61
+- Total Comment Karma: 320
+- Content Preference: Comments
+
+## Data Citations
+This persona is based on publicly available Reddit posts and comments.
+
+### Example Posts:
+1. "Teddy Bear Corner" (r/creepy, Score: 33)
+2. "SP9A3 New US Made Mags - Not Dropping Free" (r/GrandPowerStribog, Score: 5)
+3. "Tour pictures from the past ~3 years" (r/MT09, Score: 78)
+
+### Example Comments:
+1. "Eat Drink Man Woman opening scene" (r/movies, Score: 2)
+2. "Now that cruise control is standard on the non SP I would say no it's not worth the $2500 extra cost..." (r/MT09, Score: 1)
+3. "Incorrect.
+
+[https://www.marlinfirearms.com/s/model\_1895trapper/](https://www.marlinfirearms.com/s/..." (r/gundeals, Score: 1)
+
+## Methodology
+- Data collected using Reddit API (PRAW)
+- Text analysis performed using spaCy and NLTK
+- Sentiment analysis using VADER
+- LLM summarization using BART
+
+## Limitations
+- Analysis based on recent public activity only
+- Sentiment and personality analysis are approximations
+- Some content may have been deleted or removed
+- Results should be interpreted as general tendencies, not definitive characteristics

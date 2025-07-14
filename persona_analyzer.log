@@ -1,0 +1,55 @@
+2025-07-14 22:02:29,467 - INFO - Initializing Reddit Persona Analyzer...
+2025-07-14 22:02:29,544 - INFO - Reddit API client initialized successfully
+2025-07-14 22:02:29,918 - INFO - spaCy model loaded successfully
+2025-07-14 22:02:29,918 - INFO - Downloading NLTK VADER lexicon...
+2025-07-14 22:02:35,911 - INFO - Summarization model loaded successfully
+2025-07-14 22:02:35,911 - INFO - Downloading NLTK stopwords...
+2025-07-14 22:02:36,092 - INFO - Downloading NLTK vader_lexicon...
+2025-07-14 22:02:36,092 - INFO - Starting analysis of 1 user(s)
+2025-07-14 22:02:36,092 - INFO - Processing user 1/1
+2025-07-14 22:02:36,092 - INFO - Starting analysis for user: kojied
+2025-07-14 22:02:36,530 - ERROR - User kojied not found or account suspended
+2025-07-14 22:02:36,544 - ERROR - Failed to fetch data for user kojied
+2025-07-14 22:02:36,544 - ERROR - No personas were generated successfully
+2025-07-14 22:03:01,305 - INFO - Initializing Reddit Persona Analyzer...
+2025-07-14 22:03:01,305 - INFO - Reddit API client initialized successfully
+2025-07-14 22:03:01,697 - INFO - spaCy model loaded successfully
+2025-07-14 22:03:05,740 - INFO - Summarization model loaded successfully
+2025-07-14 22:03:05,740 - INFO - Downloading NLTK stopwords...
+2025-07-14 22:03:05,912 - INFO - Downloading NLTK vader_lexicon...
+2025-07-14 22:03:05,912 - INFO - Starting analysis of 1 user(s)
+2025-07-14 22:03:05,912 - INFO - Processing user 1/1
+2025-07-14 22:03:05,912 - INFO - Starting analysis for user: Hungry-Move-6603
+2025-07-14 22:03:06,303 - ERROR - User Hungry-Move-6603 not found or account suspended
+2025-07-14 22:03:06,304 - ERROR - Failed to fetch data for user Hungry-Move-6603
+2025-07-14 22:03:06,304 - ERROR - No personas were generated successfully
+2025-07-14 22:03:27,163 - INFO - Initializing Reddit Persona Analyzer...
+2025-07-14 22:03:27,163 - INFO - Reddit API client initialized successfully
+2025-07-14 22:03:27,504 - INFO - spaCy model loaded successfully
+2025-07-14 22:03:31,531 - INFO - Summarization model loaded successfully
+2025-07-14 22:03:31,531 - INFO - Downloading NLTK stopwords...
+2025-07-14 22:03:31,749 - INFO - Downloading NLTK vader_lexicon...
+2025-07-14 22:03:31,749 - INFO - Starting analysis of 1 user(s)
+2025-07-14 22:03:31,749 - INFO - Processing user 1/1
+2025-07-14 22:03:31,749 - INFO - Starting analysis for user: spez
+2025-07-14 22:03:32,292 - ERROR - User spez not found or account suspended
+2025-07-14 22:03:32,292 - ERROR - Failed to fetch data for user spez
+2025-07-14 22:03:32,292 - ERROR - No personas were generated successfully
+2025-07-15 00:23:54,807 - INFO - Initializing Reddit Persona Analyzer...
+2025-07-15 00:23:54,913 - INFO - Reddit API client initialized successfully
+2025-07-15 00:23:55,455 - INFO - spaCy model loaded successfully
+2025-07-15 00:24:01,637 - INFO - Summarization model loaded successfully
+2025-07-15 00:24:01,652 - INFO - Downloading NLTK stopwords...
+2025-07-15 00:24:01,863 - INFO - Downloading NLTK vader_lexicon...
+2025-07-15 00:24:01,865 - INFO - Starting analysis of 1 user(s)
+2025-07-15 00:24:01,865 - INFO - Processing user 1/1
+2025-07-15 00:24:01,867 - INFO - Starting analysis for user: TryingTris
+2025-07-15 00:24:03,245 - INFO - Fetching posts for user TryingTris...
+2025-07-15 00:24:07,272 - INFO - Fetching comments for user TryingTris...
+2025-07-15 00:24:18,317 - INFO - Fetched 32 posts and 100 comments for TryingTris
+2025-07-15 00:24:18,317 - INFO - Analyzing content for user TryingTris
+2025-07-15 00:24:39,697 - INFO - Analysis complete for TryingTris. Files saved:
+2025-07-15 00:24:39,697 - INFO -   - Persona: personas/TryingTris_persona.txt
+2025-07-15 00:24:39,698 - INFO -   - Data: data/TryingTris_analysis.json
+2025-07-15 00:24:39,698 - INFO - Analysis complete! Generated 1 persona files:
+2025-07-15 00:24:39,698 - INFO -   - personas/TryingTris_persona.txt

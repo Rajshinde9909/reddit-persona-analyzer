@@ -1,0 +1,98 @@
+# Reddit User Persona: kojied
+Generated on: 2025-07-15 00:19:44
+
+## Summary
+**AI-Generated Persona Summary:**
+Based on Reddit activity analysis, this user demonstrates a strong interest in personal development and learning. They actively seek advice and share experiences in communities focused on their interests. Their communication style is positive and supportive, often expressing gratitude and encouragement to others.
+
+**Detailed Analysis:**
+User has written 4 posts/comments with an average of 39.0 words per post. Overall sentiment is positive. Main interests include: technology, programming, web development. Frequently discusses: computer science, web development, react, javascript, programming. Most active in subreddits: cscareerquestions, webdev, reactjs, learnprogramming. Personality traits suggest they are: helpful, analytical, social.
+
+## Basic Statistics
+- Total Posts: 2
+- Total Comments: 2
+- Data Source: demo
+
+## Content Analysis
+- Total Content Pieces: 4
+- Total Words: 156
+- Average Words per Post: 39.0
+- Vocabulary Size: 98
+
+### Most Used Words
+- programming: 5 times
+- react: 4 times
+- development: 3 times
+- javascript: 3 times
+- learning: 3 times
+- advice: 2 times
+
+## Sentiment Analysis
+- Overall Sentiment: Positive
+- Positivity Score: 0.25
+- Negativity Score: 0.05
+- Neutrality Score: 0.70
+- Compound Score: 0.30
+
+### Sentiment Distribution
+- Positive Posts: 3
+- Negative Posts: 0
+- Neutral Posts: 1
+
+## Detected Interests
+technology, programming, web development
+
+## Frequently Discussed Topics
+computer science, web development, react, javascript, programming, tech industry, frontend development
+
+## Personality Indicators
+- Helpful: 35.0%
+- Analytical: 25.0%
+- Social: 20.0%
+- Technical: 20.0%
+
+## Subreddit Activity
+- Active in 4 different subreddits
+
+### Top Subreddits by Activity
+- r/cscareerquestions: 1 posts/comments
+- r/webdev: 1 posts/comments
+- r/reactjs: 1 posts/comments
+- r/learnprogramming: 1 posts/comments
+
+## Activity Patterns
+- Most Active Hour: 14:00
+- Most Active Day: Monday
+
+## Engagement Metrics
+- Average Post Score: 19.0
+- Highest Post Score: 23
+- Total Post Karma: 38
+- Average Comment Score: 6.5
+- Highest Comment Score: 8
+- Total Comment Karma: 13
+- Content Preference: Posts
+
+## Data Citations
+This persona is based on publicly available Reddit posts and comments.
+
+### Example Posts:
+1. "Just finished my CS degree, looking for advice on entering tech" (r/cscareerquestions, Score: 15)
+2. "Best resources for learning React?" (r/webdev, Score: 23)
+
+### Example Comments:
+1. "I completely agree with this approach. I've been using JavaScript for 2 years now and React really c..." (r/reactjs, Score: 5)
+2. "Thanks for sharing this! As someone new to programming, this really helps clarify the concepts." (r/learnprogramming, Score: 8)
+
+## Methodology
+- Data collected using Demo mode (Reddit API would be used in production)
+- Text analysis performed using spaCy and NLTK
+- Sentiment analysis using VADER
+- LLM summarization using BART (when available)
+
+## Limitations
+- Analysis based on sample data for demonstration purposes
+- In production, analysis would be based on recent public activity only
+- Sentiment and personality analysis are approximations
+- Some content may have been deleted or removed
+- Results should be interpreted as general tendencies, not definitive characteristics

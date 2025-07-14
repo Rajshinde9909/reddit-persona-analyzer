@@ -1,0 +1,97 @@
+# Reddit User Persona: Hungry-Move-6603
+Generated on: 2025-07-15 00:19:44
+
+## Summary
+**AI-Generated Persona Summary:**
+Based on Reddit activity analysis, this user demonstrates a strong interest in personal development and learning. They actively seek advice and share experiences in communities focused on their interests. Their communication style is positive and supportive, often expressing gratitude and encouragement to others.
+
+**Detailed Analysis:**
+User has written 4 posts/comments with an average of 35.5 words per post. Overall sentiment is positive. Main interests include: fitness, food, health. Frequently discusses: fitness, workout routine, meal prep, nutrition, health. Most active in subreddits: fitness, MealPrepSunday, progresspics. Personality traits suggest they are: helpful, optimistic, social.
+
+## Basic Statistics
+- Total Posts: 2
+- Total Comments: 2
+- Data Source: demo
+
+## Content Analysis
+- Total Content Pieces: 4
+- Total Words: 142
+- Average Words per Post: 35.5
+- Vocabulary Size: 87
+
+### Most Used Words
+- workout: 4 times
+- meal: 4 times
+- fitness: 3 times
+- routine: 3 times
+- prep: 3 times
+- time: 2 times
+
+## Sentiment Analysis
+- Overall Sentiment: Positive
+- Positivity Score: 0.30
+- Negativity Score: 0.02
+- Neutrality Score: 0.68
+- Compound Score: 0.25
+
+### Sentiment Distribution
+- Positive Posts: 3
+- Negative Posts: 0
+- Neutral Posts: 1
+
+## Detected Interests
+fitness, food, health
+
+## Frequently Discussed Topics
+fitness, workout routine, meal prep, nutrition, health, exercise, food planning
+
+## Personality Indicators
+- Helpful: 40.0%
+- Optimistic: 30.0%
+- Social: 20.0%
+- Analytical: 10.0%
+
+## Subreddit Activity
+- Active in 3 different subreddits
+
+### Top Subreddits by Activity
+- r/fitness: 1 posts/comments
+- r/MealPrepSunday: 2 posts/comments
+- r/progresspics: 1 posts/comments
+
+## Activity Patterns
+- Most Active Hour: 18:00
+- Most Active Day: Sunday
+
+## Engagement Metrics
+- Average Post Score: 20.0
+- Highest Post Score: 28
+- Total Post Karma: 40
+- Average Comment Score: 9.0
+- Highest Comment Score: 15
+- Total Comment Karma: 18
+- Content Preference: Posts
+
+## Data Citations
+This persona is based on publicly available Reddit posts and comments.
+
+### Example Posts:
+1. "What's your favorite workout routine?" (r/fitness, Score: 12)
+2. "Best meal prep ideas for busy weekdays?" (r/MealPrepSunday, Score: 28)
+
+### Example Comments:
+1. "I love this recipe! I've been making variations of it for months. The protein content is perfect for..." (r/MealPrepSunday, Score: 15)
+2. "Great progress! Keep it up! I found that consistency is key, even when motivation is low." (r/progresspics, Score: 3)
+
+## Methodology
+- Data collected using Demo mode (Reddit API would be used in production)
+- Text analysis performed using spaCy and NLTK
+- Sentiment analysis using VADER
+- LLM summarization using BART (when available)
+
+## Limitations
+- Analysis based on sample data for demonstration purposes
+- In production, analysis would be based on recent public activity only
+- Sentiment and personality analysis are approximations
+- Some content may have been deleted or removed
+- Results should be interpreted as general tendencies, not definitive characteristics
