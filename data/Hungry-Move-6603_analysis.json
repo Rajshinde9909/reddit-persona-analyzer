@@ -1,0 +1,157 @@
+{
+  "user_data": {
+    "username": "Hungry-Move-6603",
+    "posts": [
+      {
+        "id": "sample3",
+        "title": "What's your favorite workout routine?",
+        "text": "I've been trying to get back into fitness and I'm looking for a good workout routine. What works best for you?",
+        "subreddit": "fitness",
+        "score": 12,
+        "num_comments": 6,
+        "created_utc": 1672531200,
+        "url": "https://reddit.com/r/fitness/sample3"
+      },
+      {
+        "id": "sample4",
+        "title": "Best meal prep ideas for busy weekdays?",
+        "text": "I work long hours and struggle with meal planning. Any simple meal prep ideas that don't take too much time?",
+        "subreddit": "MealPrepSunday",
+        "score": 28,
+        "num_comments": 15,
+        "created_utc": 1672617600,
+        "url": "https://reddit.com/r/MealPrepSunday/sample4"
+      }
+    ],
+    "comments": [
+      {
+        "id": "comment3",
+        "text": "I love this recipe! I've been making variations of it for months. The protein content is perfect for post-workout meals.",
+        "subreddit": "MealPrepSunday",
+        "score": 15,
+        "created_utc": 1672704000,
+        "is_submitter": false
+      },
+      {
+        "id": "comment4",
+        "text": "Great progress! Keep it up! I found that consistency is key, even when motivation is low.",
+        "subreddit": "progresspics",
+        "score": 3,
+        "created_utc": 1672790400,
+        "is_submitter": false
+      }
+    ],
+    "total_posts": 2,
+    "total_comments": 2,
+    "fetch_method": "demo"
+  },
+  "analysis": {
+    "text_stats": {
+      "total_texts": 4,
+      "total_words": 142,
+      "avg_words_per_text": 35.5,
+      "total_sentences": 10,
+      "avg_sentences_per_text": 2.5,
+      "most_common_words": [
+        [
+          "workout",
+          4
+        ],
+        [
+          "meal",
+          4
+        ],
+        [
+          "fitness",
+          3
+        ],
+        [
+          "routine",
+          3
+        ],
+        [
+          "prep",
+          3
+        ],
+        [
+          "time",
+          2
+        ]
+      ],
+      "vocabulary_size": 87
+    },
+    "sentiment": {
+      "average_sentiment": {
+        "compound": 0.25,
+        "positive": 0.3,
+        "negative": 0.02,
+        "neutral": 0.68
+      },
+      "overall_sentiment": "positive",
+      "sentiment_distribution": {
+        "positive_posts": 3,
+        "negative_posts": 0,
+        "neutral_posts": 1
+      }
+    },
+    "topics": [
+      "fitness",
+      "workout routine",
+      "meal prep",
+      "nutrition",
+      "health",
+      "exercise",
+      "food planning"
+    ],
+    "interests": [
+      "fitness",
+      "food",
+      "health"
+    ],
+    "personality_traits": {
+      "helpful": 40.0,
+      "optimistic": 30.0,
+      "social": 20.0,
+      "analytical": 10.0
+    },
+    "subreddit_activity": {
+      "top_subreddits": [
+        [
+          "fitness",
+          1
+        ],
+        [
+          "MealPrepSunday",
+          2
+        ],
+        [
+          "progresspics",
+          1
+        ]
+      ],
+      "total_subreddits": 3,
+      "post_distribution": {
+        "fitness": 1,
+        "MealPrepSunday": 1
+      },
+      "comment_distribution": {
+        "MealPrepSunday": 1,
+        "progresspics": 1
+      }
+    },
+    "temporal_patterns": {
+      "most_active_hour": 18,
+      "most_active_day": "Sunday"
+    },
+    "engagement_patterns": {
+      "avg_post_score": 20.0,
+      "max_post_score": 28,
+      "total_post_karma": 40,
+      "avg_comment_score": 9.0,
+      "max_comment_score": 15,
+      "total_comment_karma": 18,
+      "content_preference": "posts"
+    }
+  },
+  "generated_at": "2025-07-15T00:19:44.785568"
+}

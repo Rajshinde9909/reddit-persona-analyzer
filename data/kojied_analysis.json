@@ -1,0 +1,161 @@
+{
+  "user_data": {
+    "username": "kojied",
+    "posts": [
+      {
+        "id": "sample1",
+        "title": "Just finished my CS degree, looking for advice on entering tech",
+        "text": "Hey everyone! I just graduated with a Computer Science degree and I'm looking for advice on breaking into the tech industry. Any tips?",
+        "subreddit": "cscareerquestions",
+        "score": 15,
+        "num_comments": 8,
+        "created_utc": 1672531200,
+        "url": "https://reddit.com/r/cscareerquestions/sample1"
+      },
+      {
+        "id": "sample2",
+        "title": "Best resources for learning React?",
+        "text": "I'm trying to learn React for web development. What are the best resources you'd recommend for beginners?",
+        "subreddit": "webdev",
+        "score": 23,
+        "num_comments": 12,
+        "created_utc": 1672617600,
+        "url": "https://reddit.com/r/webdev/sample2"
+      }
+    ],
+    "comments": [
+      {
+        "id": "comment1",
+        "text": "I completely agree with this approach. I've been using JavaScript for 2 years now and React really changed my perspective on frontend development.",
+        "subreddit": "reactjs",
+        "score": 5,
+        "created_utc": 1672704000,
+        "is_submitter": false
+      },
+      {
+        "id": "comment2",
+        "text": "Thanks for sharing this! As someone new to programming, this really helps clarify the concepts.",
+        "subreddit": "learnprogramming",
+        "score": 8,
+        "created_utc": 1672790400,
+        "is_submitter": false
+      }
+    ],
+    "total_posts": 2,
+    "total_comments": 2,
+    "fetch_method": "demo"
+  },
+  "analysis": {
+    "text_stats": {
+      "total_texts": 4,
+      "total_words": 156,
+      "avg_words_per_text": 39.0,
+      "total_sentences": 12,
+      "avg_sentences_per_text": 3.0,
+      "most_common_words": [
+        [
+          "programming",
+          5
+        ],
+        [
+          "react",
+          4
+        ],
+        [
+          "development",
+          3
+        ],
+        [
+          "javascript",
+          3
+        ],
+        [
+          "learning",
+          3
+        ],
+        [
+          "advice",
+          2
+        ]
+      ],
+      "vocabulary_size": 98
+    },
+    "sentiment": {
+      "average_sentiment": {
+        "compound": 0.3,
+        "positive": 0.25,
+        "negative": 0.05,
+        "neutral": 0.7
+      },
+      "overall_sentiment": "positive",
+      "sentiment_distribution": {
+        "positive_posts": 3,
+        "negative_posts": 0,
+        "neutral_posts": 1
+      }
+    },
+    "topics": [
+      "computer science",
+      "web development",
+      "react",
+      "javascript",
+      "programming",
+      "tech industry",
+      "frontend development"
+    ],
+    "interests": [
+      "technology",
+      "programming",
+      "web development"
+    ],
+    "personality_traits": {
+      "helpful": 35.0,
+      "analytical": 25.0,
+      "social": 20.0,
+      "technical": 20.0
+    },
+    "subreddit_activity": {
+      "top_subreddits": [
+        [
+          "cscareerquestions",
+          1
+        ],
+        [
+          "webdev",
+          1
+        ],
+        [
+          "reactjs",
+          1
+        ],
+        [
+          "learnprogramming",
+          1
+        ]
+      ],
+      "total_subreddits": 4,
+      "post_distribution": {
+        "cscareerquestions": 1,
+        "webdev": 1
+      },
+      "comment_distribution": {
+        "reactjs": 1,
+        "learnprogramming": 1
+      }
+    },
+    "temporal_patterns": {
+      "most_active_hour": 14,
+      "most_active_day": "Monday"
+    },
+    "engagement_patterns": {
+      "avg_post_score": 19.0,
+      "max_post_score": 23,
+      "total_post_karma": 38,
+      "avg_comment_score": 6.5,
+      "max_comment_score": 8,
+      "total_comment_karma": 13,
+      "content_preference": "posts"
+    }
+  },
+  "generated_at": "2025-07-15T00:19:44.785568"
+}
